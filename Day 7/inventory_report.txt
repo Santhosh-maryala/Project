@@ -1,0 +1,2 @@
+ID: P01 | Name: Laptop | Stock: 15
+ID: P02 | Name: Mouse | Stock: 50
