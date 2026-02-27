@@ -1,0 +1,6 @@
+Welcome to Software industry
+This is a sample text file
+Writing data using BufferedWriter
+File content will be overwritten
+End of file
+Append line this line is added without deleting old content 
