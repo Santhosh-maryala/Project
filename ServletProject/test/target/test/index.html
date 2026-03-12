@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Servlet Home Page</title>
+</head>
+
+<body>
+    <h1>Enter your Name</h1>
+    <form action="./test" method="GET,POST">
+        <label>Your Name</label><input type="text" name="user">
+        <input type="submit" value="Click here">
+    </form>
+
+
+<br><br>
+<h2>Login Page</h2>
+<form method="post" action="Sample">
+    username<input type="text" name="t1"><br>
+    password<input type="text" name="t2"><br>
+<input type="submit" value="login">
+</form>
+
+
+<br><br>
+<h3>Addition Of Two Numbers</h3>
+<form method="GET" action="ServletAddition">
+    Value A<input type="number" name="t1"><br>
+    Value B<input type="number" name="t2"><br>
+<input type="submit" value="Add">
+</form>
+</body>
+</html>
