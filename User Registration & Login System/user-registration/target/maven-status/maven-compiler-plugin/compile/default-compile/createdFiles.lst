@@ -1,0 +1,6 @@
+com\example\auth\UserDAO.class
+com\example\auth\DBConnection.class
+com\example\auth\User.class
+com\example\auth\LoginServlet.class
+com\example\auth\LogoutServlet.class
+com\example\auth\RegisterServlet.class
