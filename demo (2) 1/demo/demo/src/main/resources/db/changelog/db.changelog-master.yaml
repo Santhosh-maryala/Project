@@ -1,0 +1,7 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/01-create-department.yaml
+  - include:
+      file: db/changelog/02-create-employee.yaml
+  - include:
+      file: db/changelog/03-create-employee-address.yaml
